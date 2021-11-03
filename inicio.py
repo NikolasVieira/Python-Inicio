@@ -1,8 +1,7 @@
 from tkinter import *
-from tkinter import font
 
 menu = Tk()
-menu.title("Iniciando no Python Tkinker") # Titulo da Janela.
+menu.title("Iniciando no Python Tkinter") # Titulo da Janela.
 menu.geometry("600x400") # Resolução da Tela.
 menu["bg"] = "purple" # Cor de Fundo da Tela.
 
